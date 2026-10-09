@@ -1,0 +1,9 @@
+{
+	"id": "courtlistener",
+	"name": "CourtListener",
+	"version": "0.1.0",
+	"minAppVersion": "1.11.7",
+	"description": "",
+	"author": "",
+	"isDesktopOnly": true
+}
